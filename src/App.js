@@ -1,6 +1,7 @@
+import Counter from "./Counter";
 
 function App() {
-  return null;
+  return <Counter initialCount={69}/>;
 }
 
 export default App;
